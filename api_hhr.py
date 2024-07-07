@@ -48,7 +48,7 @@ def update_data():
 
         def getPage(page):
             params = {
-                'employer_id': 39305,  # ID 2ГИС
+                'employer_id': 39305,  # ID Газпром
                 'page': page,         # Номер страницы
                 'per_page': 100       # Кол-во вакансий на 1 странице
             }   
